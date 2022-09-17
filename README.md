@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Agil</h1>
-<img align="right" alt="agillstrz" width="400" src="https://www.linkpicture.com/q/a9f8b3f3fc09463468787a8022e2f439.jpg">
+<img align="right" alt="agillstrz" width="500" src="https://i.pinimg.com/originals/12/5d/19/125d19310c519bf98c18092e990daafe.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agillstrz&label=Profile%20views&color=0e75b6&style=flat" alt="agillstrz" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [CV](https://drive.google.com/u/0/uc?id=1byjp4QKLOQ1wVdtZ8KzPk6xYMpMxrndo&export=download)
 
-- ⚡ Fun fact **I think I am funny😁**
+- ⚡ Fun fact **I think I am cool😎✌️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

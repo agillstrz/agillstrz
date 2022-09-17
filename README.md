@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agillstrz&label=Profile%20views&color=0e75b6&style=flat" alt="agillstrz" /> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **HTML,CSS,Tailwind,Laravel,ReactJS**
+- 💬 Ask me about **HTML,CSS,Tailwind,Laravel,React JS**
 
 - 📫 How to reach me **agillstrz@gmail.com**
 

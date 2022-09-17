@@ -2,11 +2,14 @@
 <h3 align="left">I am passionate about web development</h3>
 <img align="right" alt="agillstrz" width="400" src="https://i.pinimg.com/originals/3d/d0/60/3dd0600d4d5193b2f7226b3d4b139aed.gif">
 <p>
-
 - ✍️ I’m currently learning **React JS**
+  
 - 💬 Ask me about **HTML,CSS,Tailwind,Laravel,React JS**
+  
 - 📫 How to reach me **agillstrz@gmail.com**
+  
 - 📄 Know about my experiences [CV](https://drive.google.com/u/0/uc?id=1byjp4QKLOQ1wVdtZ8KzPk6xYMpMxrndo&export=download)
+  
 - ⚡ Fun fact **I think I am cool😎✌️**
 </p>
 <h3 align="left">Connect with me:</h3>

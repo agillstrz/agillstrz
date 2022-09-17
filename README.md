@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Agil</h1>
 <h3 align="center">I am passionate about web development</h3>
-<img align="right" alt="agillstrz" width="500" src="https://i.pinimg.com/originals/3d/d0/60/3dd0600d4d5193b2f7226b3d4b139aed.gif">
+<img align="right" alt="agillstrz" width="400" src="https://i.pinimg.com/originals/3d/d0/60/3dd0600d4d5193b2f7226b3d4b139aed.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agillstrz&label=Profile%20views&color=0e75b6&style=flat" alt="agillstrz" /> </p>
 

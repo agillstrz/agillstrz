@@ -1,17 +1,14 @@
 <h1 align="left">Hi 👋, I'm Muhammad Agil</h1>
 <h3 align="left">I am passionate about web development</h3>
 <img align="right" alt="agillstrz" width="400" src="https://i.pinimg.com/originals/3d/d0/60/3dd0600d4d5193b2f7226b3d4b139aed.gif">
+<p>
 
 - ✍️ I’m currently learning **React JS**
-
 - 💬 Ask me about **HTML,CSS,Tailwind,Laravel,React JS**
-
 - 📫 How to reach me **agillstrz@gmail.com**
-
 - 📄 Know about my experiences [CV](https://drive.google.com/u/0/uc?id=1byjp4QKLOQ1wVdtZ8KzPk6xYMpMxrndo&export=download)
-
 - ⚡ Fun fact **I think I am cool😎✌️**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-agil-5b17161b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-agil-5b17161b9/" height="30" width="40" /></a>
